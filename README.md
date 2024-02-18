@@ -1,1 +1,1 @@
-# pr-labeler
+# Pull Request Size Labeler
