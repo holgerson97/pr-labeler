@@ -1,5 +1,7 @@
-import os
 from pydriller.metrics.process.lines_count import LinesCount
+
+import os
+import requests
 
 def get_diff_stats(repo_path: str, base: str, head: str) -> int:
     metric = LinesCount(path_to_repo=repo_path,
