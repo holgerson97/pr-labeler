@@ -1,0 +1,7 @@
+gitdb==4.0.11
+GitPython==3.1.42
+lizard==1.17.10
+PyDriller==2.6
+pytz==2024.1
+smmap==5.0.1
+types-pytz==2024.1.0.20240203
